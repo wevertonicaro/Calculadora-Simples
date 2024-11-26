@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35538779-014c-419d-a5aa-65f11f1e8384" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Calculadora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operacoes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operacoes/divisao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operacoes/multiplicacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operacoes/soma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operacoes/subtracao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/entrada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/entrada.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/entrada.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +38,7 @@
   "keyToString": {
     "Python.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
